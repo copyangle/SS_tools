@@ -1,8 +1,10 @@
-# SSTool Super-SecureMediaProtection媒体内容保护 使用说明
+# SSTool Super-SecureMediaProtection媒体内容保护 
 
 声明：
 本项目完全是公益项目，开发者本人不承担任何因使用本项目而导致的损失或责任，相关法律风险由使用者自行承担。如果您使用或者部署此项目即视为同意。
 This project is a completely non-profit initiative. The developer shall not be liable for any losses or liabilities arising from the use of this project, and all relevant legal risks shall be borne by the users themselves. Your use or deployment of this project shall constitute your acceptance of the above terms.
+
+![媒体保护工具演示](https://github.com/copyangle/SS_tools/blob/main/test.png "鸭子图隐写工具")
 
 主要功能：
 - 媒体内容保护：将图片/视频隐藏在卡通鸭子图中，可选密码保护
