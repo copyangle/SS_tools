@@ -23,6 +23,7 @@ The developer shall not be liable for any losses or liabilities arising from the
 - 提供以上功能的ConfyUI工作流节点
 - 提供以上功能的本地exe文件，支持本地打包、提取
 - 无论在线还是本地打包、提取速度极快
+- 压缩模式3档可选
 
 ## Example:
 隐藏保护图片和视频工作流
