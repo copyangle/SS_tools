@@ -1,8 +1,13 @@
 # SSTool Super-SecureMediaProtection媒体内容保护 
 
 声明：
-本项目完全是公益项目，开发者本人不承担任何因使用本项目而导致的损失或责任，相关法律风险由使用者自行承担。如果您使用或者部署此项目即视为同意。
-This project is a completely non-profit initiative. The developer shall not be liable for any losses or liabilities arising from the use of this project, and all relevant legal risks shall be borne by the users themselves. Your use or deployment of this project shall constitute your acceptance of the above terms.
+本项目初衷是提供一种有趣的文件打包方式，未考虑任何商业用途。
+本项目完全是公益项目，承诺绝不以任何形式收费或者变相收费。
+开发者本人不承担任何因使用本项目而导致的损失、责任以及法律风险，以上均由使用者自行承担。
+如果您使用或者部署此项目即视为同意。
+
+This project is a completely non-profit initiative. 
+The developer shall not be liable for any losses or liabilities arising from the use of this project, and all relevant legal risks shall be borne by the users themselves. Your use or deployment of this project shall constitute your acceptance of the above terms.
 
 ![媒体保护工具演示](https://github.com/copyangle/SS_tools/blob/main/test.png "鸭子图媒体保护工具")
 
