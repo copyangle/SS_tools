@@ -1,3 +1,9 @@
+<!-- 顶部添加语言切换区 -->
+<div align="center">
+  <a href="README.md">🇨🇳 中文</a> | 
+  <a href="README.en.md">🇬🇧 English</a>
+</div>
+
 # SSTool Super-SecureMediaProtection媒体内容保护 
 
 声明：
