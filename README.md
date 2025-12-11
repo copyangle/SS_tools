@@ -4,11 +4,22 @@
 本项目完全是公益项目，开发者本人不承担任何因使用本项目而导致的损失或责任，相关法律风险由使用者自行承担。如果您使用或者部署此项目即视为同意。
 This project is a completely non-profit initiative. The developer shall not be liable for any losses or liabilities arising from the use of this project, and all relevant legal risks shall be borne by the users themselves. Your use or deployment of this project shall constitute your acceptance of the above terms.
 
-![媒体保护工具演示](https://github.com/copyangle/SS_tools/blob/main/test.png "鸭子图隐写工具")
+![媒体保护工具演示](https://github.com/copyangle/SS_tools/blob/main/test.png "鸭子图媒体保护工具")
 
 主要功能：
 - 媒体内容保护：将图片/视频隐藏在卡通鸭子图中，可选密码保护
 - 媒体内容提取：从鸭子图中提取原始图片/视频数据
+
+Example:
+隐藏保护图片和视频工作流
+![媒体保护工具演示](https://github.com/copyangle/SS_tools/blob/main/Workflow%20Example/encode_img.png "鸭子图媒体保护工具")
+![媒体保护工具演示](https://github.com/copyangle/SS_tools/blob/main/Workflow%20Example/encode_video.png "鸭子图媒体保护工具")
+
+提取图片和视频工作流
+![媒体保护工具演示](https://github.com/copyangle/SS_tools/blob/main/Workflow%20Example/decode_img.png "鸭子图媒体保护工具")
+![媒体保护工具演示](https://github.com/copyangle/SS_tools/blob/main/Workflow%20Example/decode_video.png "鸭子图媒体保护工具")
+
+
 
 confyUI节点放置目录：`ComfyUI/custom_nodes/sstool/`
 
