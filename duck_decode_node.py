@@ -248,4 +248,4 @@ class DuckDecodeNode:
 
 
 NODE_CLASS_MAPPINGS = {"DuckDecodeNode": DuckDecodeNode}
-NODE_DISPLAY_NAME_MAPPINGS = {"DuckDecodeNode": "Super-SecureMediaProtection dec媒体内容保护解码V1.0"}
+NODE_DISPLAY_NAME_MAPPINGS = {"DuckDecodeNode": "SSuper-SecureMediaProtection dec媒体内容保护解码V1.0"}
