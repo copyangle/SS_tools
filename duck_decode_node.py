@@ -124,7 +124,7 @@ class DuckDecodeNode:
                 "password": ("STRING", {"default": "", "multiline": False}),
                 "Notes": ("STRING", {
                     "multiline": True,  # 核心：开启多行模式
-                    "default": "使用方法：https://github.com/copyangle/SS_tools\n支持图片/视频隐写保护",
+                    "default": "使用方法：https://github.com/copyangle/SS_tools\n支持图片/视频隐写保护\n此版本暂时无法解码带音频的视频，请用本地工具解，解决中",
                     # 多行默认内容
                     "placeholder": "使用方法：https://github.com/copyangle/SS_tools",  # 输入提示（可选）
                     "dynamicPrompts": False,  # 关闭动态提示（按需开启）
