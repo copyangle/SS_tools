@@ -17,11 +17,13 @@ The developer shall not be liable for any losses, liabilities, or legal risks ar
 - Media content extraction: Extract original image/video data from duck images
 - Provides a ComfyUI workflow for the aforementioned functions
 - Provides local EXE files for the aforementioned functions
+- Provide local tools for macOS
 
 ## Related Links:
 - Video Tutorial: https://www.bilibili.com/video/BV1w6qYBREzV
-- Ready-to-Use Workflow: https://www.runninghub.cn/post/2000762471365439490
-- Wan2.2Remix Image-to-Video with Complete Encoding Demo: https://www.runninghub.cn/ai-detail/2000755012961792002
+- Ready-to-Use Workflow: https://www.runninghub.cn/post/2000762471365439490/?inviteCode=r38a0xtg
+- Wan2.2Remix Image-to-Video with Complete Encoding Demo: https://www.runninghub.cn/ai-detail/2000755012961792002/?inviteCode=r38a0xtg
+- qq: 1067393850
 
 ## Example:
 Workflow for hiding and protecting images and videos
