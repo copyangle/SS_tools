@@ -21,9 +21,12 @@ The developer shall not be liable for any losses, liabilities, or legal risks ar
 
 ## Related Links:
 - Video Tutorial: https://www.bilibili.com/video/BV1w6qYBREzV
-- Ready-to-Use Workflow: https://www.runninghub.cn/post/2000762471365439490/?inviteCode=r38a0xtg
-- Wan2.2Remix Image-to-Video with Complete Encoding Demo: https://www.runninghub.cn/ai-detail/2000755012961792002/?inviteCode=r38a0xtg
-- qq: 1067393850
+- Ready-made Workflow: https://www.runninghub.ai/post/2000762471365439490/?inviteCode=rh-v1393
+- Unrestricted Wan2.2Remix Image-to-Video: Full Demo of Duck Image: https://www.runninghub.ai/ai-detail/2000755012961792002/?inviteCode=rh-v1393
+- Unrestricted Scail Motion Transfer: https://www.runninghub.ai/post/2001603322555559938/?inviteCode=rh-v1393
+- Unrestricted Wan2.2Remix High-Quality Text-to-Video: https://www.runninghub.cn/post/1988716572640423937/?inviteCode=rh-v1393
+- Special Thanks to T8 for Supporting This Project: https://www.bilibili.com/video/BV1vqqeB1ENo/
+- Discussion QQ Group: 1067393850
 
 ## Example:
 Workflow for hiding and protecting images and videos

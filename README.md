@@ -29,10 +29,10 @@ Your use or deployment of this project shall constitute your acceptance of the a
 
 ## 相关链接：
 - 视频教程: https://www.bilibili.com/video/BV1w6qYBREzV
-- 现成工作流：https://www.runninghub.cn/post/2000762471365439490/?inviteCode=r38a0xtg
-- 无限制Wan2.2Remix图生视频鸭子图完整演示:https://www.runninghub.cn/ai-detail/2000755012961792002/?inviteCode=r38a0xtg
-- 无限制Scail动作迁移 https://www.runninghub.cn/post/2001603322555559938/?inviteCode=r38a0xtg
-- 无限制Wan2.2Remix高质量文生视频 https://www.runninghub.cn/post/1988716572640423937/?inviteCode=r38a0xtg
+- 现成工作流：https://www.runninghub.cn/post/2000762471365439490/?inviteCode=rh-v1393
+- 无限制Wan2.2Remix图生视频鸭子图完整演示:https://www.runninghub.cn/ai-detail/2000755012961792002/?inviteCode=rh-v1393
+- 无限制Scail动作迁移 https://www.runninghub.cn/post/2001603322555559938/?inviteCode=rh-v1393
+- 无限制Wan2.2Remix高质量文生视频 https://www.runninghub.cn/post/1988716572640423937/?inviteCode=rh-v1393
 - 感谢T8对本项目的支持：https://www.bilibili.com/video/BV1vqqeB1ENo/
 - 交流Q群：1067393850
 
