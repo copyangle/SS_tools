@@ -36,7 +36,7 @@ Your use or deployment of this project shall constitute your acceptance of the a
 - 感谢T8对本项目的支持：https://www.bilibili.com/video/BV1vqqeB1ENo/
 - 交流Q群：1067393850
 - AIGC交流微信群：
-  ![AIGC交流微信群](https://github.com/copyangle/SS_tools/blob/main/AIGCgroup.jpg "AIGC交流微信群")
+- <img alt="AIGC交流微信群" height="250" src="https://github.com/copyangle/SS_tools/blob/main/AIGCgroup.jpg" title="AIGC交流微信群" width="250"/>
 
 ## Example:
 隐藏保护图片和视频工作流
