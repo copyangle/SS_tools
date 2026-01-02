@@ -21,6 +21,7 @@ The developer shall not be liable for any losses, liabilities, or legal risks ar
 
 ## Related Links:
 - Video Tutorial: https://www.bilibili.com/video/BV1w6qYBREzV
+- Web Version User Guide: https://www.bilibili.com/video/BV1K2icBqES3/
 - Ready-made Workflow: https://www.runninghub.ai/post/2000762471365439490/?inviteCode=rh-v1393
 - Unrestricted Wan2.2Remix Image-to-Video: Full Demo of Duck Image: https://www.runninghub.ai/ai-detail/2000755012961792002/?inviteCode=rh-v1393
 - Unrestricted Scail Motion Transfer: https://www.runninghub.ai/post/2001603322555559938/?inviteCode=rh-v1393
