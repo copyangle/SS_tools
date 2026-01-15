@@ -26,6 +26,7 @@ Your use or deployment of this project shall constitute your acceptance of the a
 - 打包、提取速度极快
 - 压缩模式3档可选
 - 提供macOS本地工具
+- 提供本地UI工具精简版
 - 小黄鸭解码免费网页版：http://duck.airush.top:81/
 
 ## 相关链接：
