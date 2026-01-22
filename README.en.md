@@ -118,3 +118,4 @@ Workflow for extracting images and videos
 ## Notes
 - Do not re-save the duck image with image editing software to avoid truncation of tail data.
 - If a password is set during generation, the same password must be provided for decoding, otherwise a verification failure will be prompted.
+- Mobile web decoding is only available on the following four browsers:Apple's native browser, WeChat in-app browser (iOS), Google Chrome (all systems), and Firefox (all systems).
