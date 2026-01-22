@@ -129,6 +129,6 @@ Your use or deployment of this project shall constitute your acceptance of the a
 ## 注意事项
 - 不要用图片编辑软件重新保存鸭子图，避免尾部数据被截断。
 - 如果生成时设置了密码，解码必须提供相同密码，否则会提示校验失败。
-- 移动端网页解码只有以下四种浏览器可用：苹果原生浏览器、苹果微信内浏览器，所有系统谷歌浏览器、firefox浏览器
+- 移动端网页解码只有以下四种浏览器可用：苹果原生浏览器、苹果微信内浏览器，所有系统谷歌浏览器、firefox浏览器。
 
 
