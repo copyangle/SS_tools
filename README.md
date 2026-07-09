@@ -22,13 +22,13 @@ Your use or deployment of this project shall constitute your acceptance of the a
 ## 主要功能和特点：
 - 媒体内容保护：将图片/视频/文本内容隐藏在卡通鸭子图中，可选密码保护
 - 媒体内容提取：从鸭子图中提取原始图片/视频/文本数据
-- 提供windows本地窗口exe工具
 - 提供以上功能的本地exe命令行工具，支持本地打包、提取
 - 提供以上功能的ConfyUI工作流节点
 - 打包、提取速度极快
 - 压缩模式3档可选
 - 提供macOS本地工具
-- 鸭鸭浏览器插件：http://duckp.airush.top/
+- 提供windows本地exe窗口工具[下载](https://github.com/copyangle/SS_tools/blob/main/%E9%B8%AD%E9%B8%AD%E5%9B%BE%E6%9C%AC%E5%9C%B0UI%E8%A7%A3%E7%A0%81%E5%B7%A5%E5%85%B7%E7%B2%BE%E7%AE%80%E7%89%88.rar)
+- 鸭鸭图谷歌浏览器解码插件：http://duckp.airush.top/
 
 
 ## 相关链接：
@@ -36,7 +36,7 @@ Your use or deployment of this project shall constitute your acceptance of the a
 - 交流Q群：1020585041 164930465
 
 ## Example:
-windows本地工具
+windows本地工具[下载](https://github.com/copyangle/SS_tools/blob/main/%E9%B8%AD%E9%B8%AD%E5%9B%BE%E6%9C%AC%E5%9C%B0UI%E8%A7%A3%E7%A0%81%E5%B7%A5%E5%85%B7%E7%B2%BE%E7%AE%80%E7%89%88.rar)
 ![媒体保护工具演示](https://github.com/copyangle/SS_tools/blob/main/Workflow%20Example/gui_exe.png "鸭子图媒体保护工具")
 
 隐藏保护图片和视频工作流
