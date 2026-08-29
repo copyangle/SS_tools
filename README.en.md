@@ -23,10 +23,10 @@ Your use or deployment of this project constitutes acceptance of the above terms
 - Duck Image Local UI Decoder Lite V1.0: 鸭鸭图本地UI解码工具精简版V1.0.rar
 - Duck Browser Extension：http://duckp.airush.top/
 
-
 ## Related Links:
-
-- Discussion QQ Group: 1020585041 164930465
+- [Introduction to Windows Local EXE Tool](https://www.youtube.com/watch?v=Cr9ulXU7z08)
+- [Usage of QR‑Code Encoding Node](https://www.youtube.com/watch?v=3rgMM1Hq0RM)
+- [Introduction to Browser‑Side Decoding Plugin](https://www.youtube.com/watch?v=r7ivgZ5I7DE)
 
 ## Example:
 windows tool

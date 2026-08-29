@@ -32,8 +32,9 @@ Your use or deployment of this project shall constitute your acceptance of the a
 
 
 ## 相关链接：
-
-- 交流Q群：1020585041 164930465
+- [windows本地exe工具介绍](https://www.youtube.com/watch?v=Cr9ulXU7z08)
+- [二维码编码节点使用方法](https://www.youtube.com/watch?v=3rgMM1Hq0RM)
+- [浏览器解码插件介绍](https://www.youtube.com/watch?v=r7ivgZ5I7DE)
 
 ## Example:
 windows本地工具[下载](https://github.com/copyangle/SS_tools/blob/main/%E9%B8%AD%E9%B8%AD%E5%9B%BE%E6%9C%AC%E5%9C%B0UI%E8%A7%A3%E7%A0%81%E5%B7%A5%E5%85%B7%E7%B2%BE%E7%AE%80%E7%89%88.rar)
