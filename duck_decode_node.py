@@ -8,6 +8,11 @@ import numpy as np
 from typing import Any, List
 from PIL import Image
 import torch
+
+try:
+    from .duck_safety import validate_payload_extension, write_recovered_bytes
+except ImportError:
+    from duck_safety import validate_payload_extension, write_recovered_bytes
 try:
     import moviepy
     from moviepy.editor import VideoFileClip
@@ -65,6 +70,8 @@ def _parse_header(header: bytes, password: str):
     idx = 0
     if len(header) < 1:
         raise ValueError("Header corrupted. 文件头损坏")
+    if header[0] not in (0, 1):
+        raise ValueError('Invalid password flag in payload header')
     has_pwd = header[0] == 1
     idx += 1
     pwd_hash = b""
@@ -79,7 +86,9 @@ def _parse_header(header: bytes, password: str):
     ext_len = header[idx]; idx += 1
     if len(header) < idx + ext_len + 4:
         raise ValueError("Header corrupted. 文件头损坏")
-    ext = header[idx:idx + ext_len].decode("utf-8", errors="ignore"); idx += ext_len
+    ext = header[idx:idx + ext_len].decode("utf-8", errors="strict")
+    idx += ext_len
+    ext = validate_payload_extension(ext)
     data_len = struct.unpack(">I", header[idx:idx + 4])[0]; idx += 4
     data = header[idx:]
     if len(data) != data_len:
@@ -208,26 +217,21 @@ class DuckDecodeNode:
 
         base_dir = folder_paths.get_output_directory() if folder_paths else os.getcwd()
         os.makedirs(base_dir, exist_ok=True)
-        name = "duck_recovered"
-        out_path = os.path.join(base_dir, name)
 
-        final_path = ""
         final_ext = ext
         if ext.endswith(".binpng"):
-            tmp_png = out_path + ".binpng"
-            with open(tmp_png, "wb") as f:
-                f.write(raw)
-            mp4_bytes = binpng_bytes_to_mp4_bytes(tmp_png)
-            os.unlink(tmp_png)
-            final_path = out_path + ".mp4"
-            with open(final_path, "wb") as f:
-                f.write(mp4_bytes)
+            tmp_png = write_recovered_bytes(base_dir, raw, ".binpng")
+            try:
+                mp4_bytes = binpng_bytes_to_mp4_bytes(tmp_png)
+            finally:
+                try:
+                    os.unlink(tmp_png)
+                except OSError:
+                    pass
+            final_path = write_recovered_bytes(base_dir, mp4_bytes, ".mp4")
             final_ext = "mp4"
         else:
-            final_path = out_path + ("." + ext if not ext.startswith(".") else ext)
-            with open(final_path, "wb") as f:
-                f.write(raw)
-            
+            final_path = write_recovered_bytes(base_dir, raw, f".{ext}")
             if ext.lower() == "txt":
                 try:
                     text_output = raw.decode("utf-8")
